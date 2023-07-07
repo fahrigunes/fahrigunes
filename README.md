@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fahrigunes
 - 👀 I’m interested in AI and c++
-- 🌱 I’m currently learning c++,javascript,html5
+- 🌱 I’m currently learning c++, javascript ,html5
 - 💞️ I’m looking to collaborate on google or amazot etc.
 - 📫 How to reach me instagram moonamafahri 
 
